@@ -9,7 +9,7 @@ You can also find a description of the GeoRoute classification challenge here:
 https://talshapira.github.io/portfolio/sasa/
 
 A trained GeoRouteLSTM model can be found here:
-https://drive.google.com/file/d/1uwjj_21IEGOLvWGfILYbwlPmSYLCMBwC/view?usp=drive_link
+https://1drv.ms/u/s!Aq3fZpaqhXnng55D12JVPPywy8fC0w?e=fPekIs
 
 ## How to use this repository
 
@@ -29,7 +29,7 @@ This notebook will train the GeoRouteLSTM model and save the weight in a file na
 
 4. GeoRouteLSTM Evaluation
 
-This notebook evaluates the trained model from the last notebook on the test dataset. You can also download a pretrained model from the lin you find in the section above.
+This notebook evaluates the trained model from the last notebook on the test dataset. You can also download a pretrained model from the link you find in the section above.
 
 ## The architecture
 

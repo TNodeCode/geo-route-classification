@@ -23,6 +23,10 @@ This notebook will read the file `dataset_b_noisy_7_agents_training.pkl` and cre
 
 This notebook will use the mapping files created in the first notebook and transform the test dataset from the `dataset_b_noisy_7_agents_test.pkl` into a new file named `dataset_test.pkl.gz`.
 
+You can also download these files here:
+- `dataset_train.pkl.gz`: https://1drv.ms/u/s!Aq3fZpaqhXnng55F1kvRWLAvx1kfPA?e=WDJsSU
+- `dataset_test.pkl.gz`: https://1drv.ms/u/s!Aq3fZpaqhXnng55EXXZEvfnMI2nzsA?e=xGXet5
+
 3. GeoRouteLSTM Training
 
 This notebook will train the GeoRouteLSTM model and save the weight in a file named `lstm_3layers_<datestring>`.
